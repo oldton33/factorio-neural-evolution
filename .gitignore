@@ -8,3 +8,5 @@ factorio_server/
 bin/
 config/
 saves/
+
+.idea/
