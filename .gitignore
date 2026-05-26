@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+.pytest_cache/
+
+*.zip
+
+factorio_server/
+bin/
+config/
+saves/
